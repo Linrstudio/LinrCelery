@@ -3,7 +3,7 @@
 朋友去年就说过很想要这样一个功能：直接打开一个图片，可以拖动到浏览器的任意一个地方，其实就是想把设计的图图浮在网页上看看效果。于是就给她写了这样一个看图的程序，可以查看任意位图格式（psd、png、jpg、ico、bmp、gif等）。按数字键就半透明显示，左右方向键换上一张或下一张图图。可以将图片拖动到Linr Celery上快速查看。还可以使用截屏工具（如QQ截屏）截屏后，Ctrl+V粘贴图片在Linr Celery上快速查看。 
 
 ### 下载（Download）：
-https://github.com/Linrstudio/LinrCelery/downloads
+https://github.com/Linrstudio/LinrCelery/tree/master/download
 
 ### 更多介绍
 http://xiaogezi.cn/app/LinrCelery.htm
