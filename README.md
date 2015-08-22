@@ -31,3 +31,6 @@ http://xiaogezi.cn/app/LinrCelery.htm
 * Ctrl+ 下方向键 向下移动1px
 * C键 快速拷贝图片路径
 * P键 使用PS打开
+* 缩放支持 (- 缩小，+ 放大)
+* 反色支持 (I 键)
+* 水平翻转支持 (H键)
